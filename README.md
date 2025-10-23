@@ -1,2 +1,2 @@
 # Max-Affine-Data
-Contains code and data used to generate plots and predictions in the paper "Interpretable Machine Learning Model Captures Energy Landscape of all Materials with Seven Numbers per Element".
+Contains all code and DFT data used to train models and generate plots/predictions for the paper "Interpretable Machine Learning Model Captures Energy Landscape of all Materials with Seven Numbers per Element".
