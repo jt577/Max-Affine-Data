@@ -15,7 +15,7 @@ with open('OH_elements.json', 'r') as file:
 with open('p_dict_oh.json', 'r') as file:
     p_dict_oh = json.load(file)
 
-api_key = "wE930r8O24TLEjNhZEHT8LBivEdm9CqA"
+api_key = "insert your key"
 
 max_en = 0.10  # eV/atom
 features = []
